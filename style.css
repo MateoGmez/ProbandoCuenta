@@ -1,3 +1,9 @@
 body{
     background-color: aqua;
 }
+.titulo{
+    color: red;
+}
+.cont{
+    background-color: thistle;
+}
